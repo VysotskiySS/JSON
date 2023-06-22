@@ -22,5 +22,5 @@
     "Actual result" : "Кнопка “Оформить заказ” не реагирует на клик.",
     "Expected result" :"Пользователь перенаправляется на страницу оплаты (Биллинг)",
   },
-  "Attachment" : "https://drive.google.com/...",
+  "Attachment" : "https://drive.google.com/..."
 }
